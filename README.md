@@ -4,11 +4,11 @@ Simple project to reproduce a null pointer issue with the buildnumber-maven-plug
 
 ## windows
 
-- `tester.bat > output.txt`
+`tester.bat > output.txt`
 
 ## Linux
 
-- `./tester.sh > output.txt`
+`./tester.sh > output.txt`
 
 ### error will look like this:
 
